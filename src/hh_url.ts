@@ -1,4 +1,4 @@
-import { HHURLVacancies } from "./hh_ru_vacancies";
+import { HHURLVacancies } from "./hh_vacancies";
 
 export const BASE_HH_URL = new URL("https://api.hh.ru/");
 
