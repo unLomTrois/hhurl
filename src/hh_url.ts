@@ -3,7 +3,7 @@ import { HHURLVacancies } from "./hh_vacancies";
 export const BASE_HH_URL = new URL("https://api.hh.ru/");
 
 /**
- * HHURL is a wrapper around URL API to construct urls to headhunter api using chaiable methods
+ * HHURL is a wrapper around URL API to construct urls to headhunter api using chainable methods
  * @example ```typescript
  *  const hh = new HHURL()
  *  const vacancies = 
